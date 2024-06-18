@@ -1,0 +1,66 @@
+Directory /
+0	.
+0	..
+5	apple.txt
+2	gluten
+6	sneakyDirectory.txt
+1	sparrow
+
+Directory /gluten/
+2	.
+0	..
+
+Directory /sneakyDirectory.txt/
+6	.
+0	..
+7	deep0
+8	deep1
+9	deep2
+10	deep3
+11	deep4
+
+Directory /sneakyDirectory.txt/deep0/
+7	.
+6	..
+12	deeper
+
+Directory /sneakyDirectory.txt/deep0/deeper/
+12	.
+7	..
+13	deeper
+
+Directory /sneakyDirectory.txt/deep0/deeper/deeper/
+13	.
+12	..
+14	deeper
+
+Directory /sneakyDirectory.txt/deep0/deeper/deeper/deeper/
+14	.
+13	..
+
+Directory /sneakyDirectory.txt/deep1/
+8	.
+6	..
+
+Directory /sneakyDirectory.txt/deep2/
+9	.
+6	..
+
+Directory /sneakyDirectory.txt/deep3/
+10	.
+6	..
+
+Directory /sneakyDirectory.txt/deep4/
+11	.
+6	..
+
+Directory /sparrow/
+1	.
+0	..
+3	vase
+
+Directory /sparrow/vase/
+3	.
+1	..
+4	base.txt
+
